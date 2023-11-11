@@ -1,0 +1,57 @@
+C:/Users/alepi/source/repos/ConsoleApp36/ConsoleApp36/bin/Debug/net6.0/ConsoleApp36.exe
+C:/Users/alepi/source/repos/ConsoleApp36/ConsoleApp36/bin/Debug/net6.0/ConsoleApp36.deps.json
+C:/Users/alepi/source/repos/ConsoleApp36/ConsoleApp36/bin/Debug/net6.0/ConsoleApp36.runtimeconfig.json
+C:/Users/alepi/source/repos/ConsoleApp36/ConsoleApp36/bin/Debug/net6.0/ConsoleApp36.dll
+C:/Users/alepi/source/repos/ConsoleApp36/ConsoleApp36/bin/Debug/net6.0/ConsoleApp36.pdb
+C:/Users/alepi/source/repos/ConsoleApp36/ConsoleApp36/obj/Debug/net6.0/ConsoleApp36.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/alepi/source/repos/ConsoleApp36/ConsoleApp36/obj/Debug/net6.0/ConsoleApp36.AssemblyInfoInputs.cache
+C:/Users/alepi/source/repos/ConsoleApp36/ConsoleApp36/obj/Debug/net6.0/ConsoleApp36.AssemblyInfo.cs
+C:/Users/alepi/source/repos/ConsoleApp36/ConsoleApp36/obj/Debug/net6.0/ConsoleApp36.csproj.CoreCompileInputs.cache
+C:/Users/alepi/source/repos/ConsoleApp36/ConsoleApp36/obj/Debug/net6.0/ConsoleApp36.dll
+C:/Users/alepi/source/repos/ConsoleApp36/ConsoleApp36/obj/Debug/net6.0/refint/ConsoleApp36.dll
+C:/Users/alepi/source/repos/ConsoleApp36/ConsoleApp36/obj/Debug/net6.0/ConsoleApp36.pdb
+C:/Users/alepi/source/repos/ConsoleApp36/ConsoleApp36/obj/Debug/net6.0/ConsoleApp36.genruntimeconfig.cache
+C:/Users/alepi/source/repos/ConsoleApp36/ConsoleApp36/obj/Debug/net6.0/ref/ConsoleApp36.dll
+/Users/salamander/Downloads/ConsoleApp36/ConsoleApp36/bin/Debug/net6.0/ConsoleApp36
+/Users/salamander/Downloads/ConsoleApp36/ConsoleApp36/bin/Debug/net6.0/ConsoleApp36.deps.json
+/Users/salamander/Downloads/ConsoleApp36/ConsoleApp36/bin/Debug/net6.0/ConsoleApp36.runtimeconfig.json
+/Users/salamander/Downloads/ConsoleApp36/ConsoleApp36/bin/Debug/net6.0/ConsoleApp36.dll
+/Users/salamander/Downloads/ConsoleApp36/ConsoleApp36/bin/Debug/net6.0/ConsoleApp36.pdb
+/Users/salamander/Downloads/ConsoleApp36/ConsoleApp36/obj/Debug/net6.0/ConsoleApp36.csproj.AssemblyReference.cache
+/Users/salamander/Downloads/ConsoleApp36/ConsoleApp36/obj/Debug/net6.0/ConsoleApp36.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salamander/Downloads/ConsoleApp36/ConsoleApp36/obj/Debug/net6.0/ConsoleApp36.AssemblyInfoInputs.cache
+/Users/salamander/Downloads/ConsoleApp36/ConsoleApp36/obj/Debug/net6.0/ConsoleApp36.AssemblyInfo.cs
+/Users/salamander/Downloads/ConsoleApp36/ConsoleApp36/obj/Debug/net6.0/ConsoleApp36.csproj.CoreCompileInputs.cache
+/Users/salamander/Downloads/ConsoleApp36/ConsoleApp36/obj/Debug/net6.0/ConsoleApp36.dll
+/Users/salamander/Downloads/ConsoleApp36/ConsoleApp36/obj/Debug/net6.0/refint/ConsoleApp36.dll
+/Users/salamander/Downloads/ConsoleApp36/ConsoleApp36/obj/Debug/net6.0/ConsoleApp36.pdb
+/Users/salamander/Downloads/ConsoleApp36/ConsoleApp36/obj/Debug/net6.0/ConsoleApp36.genruntimeconfig.cache
+/Users/salamander/Downloads/ConsoleApp36/ConsoleApp36/obj/Debug/net6.0/ref/ConsoleApp36.dll
+\\Mac\Home\Desktop\ConsoleApp36\ConsoleApp36\ConsoleApp36\bin\Debug\net6.0\ConsoleApp36.exe
+\\Mac\Home\Desktop\ConsoleApp36\ConsoleApp36\ConsoleApp36\bin\Debug\net6.0\ConsoleApp36.deps.json
+\\Mac\Home\Desktop\ConsoleApp36\ConsoleApp36\ConsoleApp36\bin\Debug\net6.0\ConsoleApp36.runtimeconfig.json
+\\Mac\Home\Desktop\ConsoleApp36\ConsoleApp36\ConsoleApp36\bin\Debug\net6.0\ConsoleApp36.dll
+\\Mac\Home\Desktop\ConsoleApp36\ConsoleApp36\ConsoleApp36\bin\Debug\net6.0\ConsoleApp36.pdb
+\\Mac\Home\Desktop\ConsoleApp36\ConsoleApp36\ConsoleApp36\obj\Debug\net6.0\ConsoleApp36.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\ConsoleApp36\ConsoleApp36\ConsoleApp36\obj\Debug\net6.0\ConsoleApp36.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\ConsoleApp36\ConsoleApp36\ConsoleApp36\obj\Debug\net6.0\ConsoleApp36.AssemblyInfo.cs
+\\Mac\Home\Desktop\ConsoleApp36\ConsoleApp36\ConsoleApp36\obj\Debug\net6.0\ConsoleApp36.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\ConsoleApp36\ConsoleApp36\ConsoleApp36\obj\Debug\net6.0\ConsoleApp36.dll
+\\Mac\Home\Desktop\ConsoleApp36\ConsoleApp36\ConsoleApp36\obj\Debug\net6.0\refint\ConsoleApp36.dll
+\\Mac\Home\Desktop\ConsoleApp36\ConsoleApp36\ConsoleApp36\obj\Debug\net6.0\ConsoleApp36.pdb
+\\Mac\Home\Desktop\ConsoleApp36\ConsoleApp36\ConsoleApp36\obj\Debug\net6.0\ConsoleApp36.genruntimeconfig.cache
+\\Mac\Home\Desktop\ConsoleApp36\ConsoleApp36\ConsoleApp36\obj\Debug\net6.0\ref\ConsoleApp36.dll
+C:\Users\alepi\Downloads\ConsoleApp36 (5)\ConsoleApp36\ConsoleApp36\bin\Debug\net6.0\ConsoleApp36.exe
+C:\Users\alepi\Downloads\ConsoleApp36 (5)\ConsoleApp36\ConsoleApp36\bin\Debug\net6.0\ConsoleApp36.deps.json
+C:\Users\alepi\Downloads\ConsoleApp36 (5)\ConsoleApp36\ConsoleApp36\bin\Debug\net6.0\ConsoleApp36.runtimeconfig.json
+C:\Users\alepi\Downloads\ConsoleApp36 (5)\ConsoleApp36\ConsoleApp36\bin\Debug\net6.0\ConsoleApp36.dll
+C:\Users\alepi\Downloads\ConsoleApp36 (5)\ConsoleApp36\ConsoleApp36\bin\Debug\net6.0\ConsoleApp36.pdb
+C:\Users\alepi\Downloads\ConsoleApp36 (5)\ConsoleApp36\ConsoleApp36\obj\Debug\net6.0\ConsoleApp36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alepi\Downloads\ConsoleApp36 (5)\ConsoleApp36\ConsoleApp36\obj\Debug\net6.0\ConsoleApp36.AssemblyInfoInputs.cache
+C:\Users\alepi\Downloads\ConsoleApp36 (5)\ConsoleApp36\ConsoleApp36\obj\Debug\net6.0\ConsoleApp36.AssemblyInfo.cs
+C:\Users\alepi\Downloads\ConsoleApp36 (5)\ConsoleApp36\ConsoleApp36\obj\Debug\net6.0\ConsoleApp36.csproj.CoreCompileInputs.cache
+C:\Users\alepi\Downloads\ConsoleApp36 (5)\ConsoleApp36\ConsoleApp36\obj\Debug\net6.0\ConsoleApp36.dll
+C:\Users\alepi\Downloads\ConsoleApp36 (5)\ConsoleApp36\ConsoleApp36\obj\Debug\net6.0\refint\ConsoleApp36.dll
+C:\Users\alepi\Downloads\ConsoleApp36 (5)\ConsoleApp36\ConsoleApp36\obj\Debug\net6.0\ConsoleApp36.pdb
+C:\Users\alepi\Downloads\ConsoleApp36 (5)\ConsoleApp36\ConsoleApp36\obj\Debug\net6.0\ConsoleApp36.genruntimeconfig.cache
+C:\Users\alepi\Downloads\ConsoleApp36 (5)\ConsoleApp36\ConsoleApp36\obj\Debug\net6.0\ref\ConsoleApp36.dll
